@@ -1,4 +1,4 @@
-# SixArm.com »<br>brew install packages we like
+# SixArm.com »<br>Gem install our favorites for Ruby
 
 These are our team's "gem install" commands for a typical system.
 
