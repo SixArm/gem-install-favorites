@@ -59,7 +59,6 @@ gem install coffee-script
 gem install coffee-script-source
 gem install colored
 gem install concurrent-ruby
-gem install coveralls
 gem install css_parser
 gem install cube-ruby
 gem install cucumber
