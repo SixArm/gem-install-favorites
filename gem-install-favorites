@@ -1,3 +1,21 @@
+#!/bin/sh
+
+## 
+# gem-install-favorites
+#
+# Use the `gem` command to install our favorites.
+#
+#
+# ## Tracking
+#
+# * Command: https://github.com/sixarm/gem-install-favorites
+# * Version: 6.2.0
+# * Created: 2013-02-10T22:16:21Z
+# * Updated: 2022-07-30T22:57:52Z
+# * License: GPL-2.0-or-later or contact us for custom
+# * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
+##
+
 gem install actionmailer
 gem install actionpack
 gem install actionview
