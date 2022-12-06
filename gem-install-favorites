@@ -9,9 +9,9 @@
 # ## Tracking
 #
 # * Command: https://github.com/sixarm/gem-install-favorites
-# * Version: 6.2.0
+# * Version: 6.3.0
 # * Created: 2013-02-10T22:16:21Z
-# * Updated: 2022-07-30T22:57:52Z
+# * Updated: 2022-12-06T21:31:01Z
 # * License: GPL-2.0-or-later or contact us for custom
 # * Contact: [Joel Parker Henderson](http://joelparkerhenderson.com)
 ##
@@ -109,6 +109,7 @@ gem install forgery
 gem install formatador
 gem install frank-cucumber
 gem install fuzzy_match
+gem install gem-ctags
 gem install gemcutter
 gem install gherkin
 gem install gherkin3
